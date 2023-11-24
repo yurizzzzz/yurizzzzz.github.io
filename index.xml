@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Yurizz</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Yurizz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <url>/images/icon_hu6f0773faeb289f18e248d87ed6c7d8fe_51226_512x512_fill_lanczos_center_3.png</url>
+      <title>Yurizz</title>
       <link>/</link>
     </image>
     
@@ -74,6 +74,54 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement</title>
+      <link>/publication/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Enhanced Causal Reinforcement Learning Model for Interactive Recommendation</title>
+      <link>/publication/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/knowledge-enhanced-causal-reinforcement-learning-model-for-interactive-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MALN: Multimodal Adversarial Learning Network for Conversational Emotion Recognition</title>
+      <link>/publication/maln-multimodal-adversarial-learning-network-for-conversational-emotion-recognition/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/maln-multimodal-adversarial-learning-network-for-conversational-emotion-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRFT: Multiscale Recurrent Fusion Transformer Based Prior Knowledge for Bit-Depth Enhancement</title>
+      <link>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mrft-multiscale-recurrent-fusion-transformer-based-prior-knowledge-for-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence as A Whole: A Unified Framework for Video Action Localization with Long-Range Text Query</title>
+      <link>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sequence-as-a-whole-a-unified-framework-for-video-action-localization-with-long-range-text-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory Guided Robust Visual Object Tracking With Selective Remedy Recommendation</title>
+      <link>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -330,21 +378,6 @@ You found me!
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -529,24 +562,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -711,46 +726,6 @@ $$&lt;/p&gt;
 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

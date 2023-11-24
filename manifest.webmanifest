@@ -1,15 +1,15 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Yurizz",
+  "short_name": "Yurizz",
   "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png",
+    "src": "/images/icon_hu6f0773faeb289f18e248d87ed6c7d8fe_51226_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png",
+    "src": "/images/icon_hu6f0773faeb289f18e248d87ed6c7d8fe_51226_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
