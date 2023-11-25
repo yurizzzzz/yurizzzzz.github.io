@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jing Liu | Yurizz</title>
+    <title>Jing Liu | TJUMMG</title>
     <link>/author/jing-liu/</link>
       <atom:link href="/author/jing-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jing Liu</description>
@@ -57,6 +57,38 @@
       <link>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/trajectory-guided-robust-visual-object-tracking-with-selective-remedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TANet: Target Attention Network for Video Bit-Depth Enhancement</title>
+      <link>/publication/tanet-target-attention-network-for-video-bit-depth-enhancement/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tanet-target-attention-network-for-video-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement</title>
+      <link>/publication/residual-guided-multiscale-fusion-network-for-bit-depth-enhancement/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/residual-guided-multiscale-fusion-network-for-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tripartite Graph Regularized Latent Low-Rank Representation for Fashion Compatibility Prediction</title>
+      <link>/publication/tripartite-graph-regularized-latent-low-rank-representation-for-fashion-compatibility-prediction/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tripartite-graph-regularized-latent-low-rank-representation-for-fashion-compatibility-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Low-Rank Sparse Representations With Robust Relationship Inference for Image Memorability Prediction</title>
+      <link>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/learning-low-rank-sparse-representations-with-robust-relationship-inference-for-image-memorability-prediction/</guid>
       <description></description>
     </item>
     

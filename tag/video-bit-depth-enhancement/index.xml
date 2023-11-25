@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Video bit-depth enhancement | Yurizz</title>
+    <title>Video bit-depth enhancement | TJUMMG</title>
     <link>/tag/video-bit-depth-enhancement/</link>
       <atom:link href="/tag/video-bit-depth-enhancement/index.xml" rel="self" type="application/rss+xml" />
     <description>Video bit-depth enhancement</description>
@@ -17,6 +17,14 @@
       <link>/publication/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/multi-stage-spatio-temporal-fusion-network-for-fast-and-accurate-video-bit-depth-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TANet: Target Attention Network for Video Bit-Depth Enhancement</title>
+      <link>/publication/tanet-target-attention-network-for-video-bit-depth-enhancement/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tanet-target-attention-network-for-video-bit-depth-enhancement/</guid>
       <description></description>
     </item>
     
